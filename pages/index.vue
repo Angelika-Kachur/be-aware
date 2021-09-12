@@ -1,5 +1,8 @@
 <template>
-  <Tutorial/>
+  <div>
+    <NuxtLogo />
+    <Todo />
+  </div>
 </template>
 
 <script>
